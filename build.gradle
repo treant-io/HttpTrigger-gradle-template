@@ -20,5 +20,5 @@ repositories {
 }
 
 azurefunctions {
-    appName = 'http-trigger-gradle-template-1644870000780' // please rename the function name
+    appName = 'http-trigger-gradle-template' // please rename the function name
 }
