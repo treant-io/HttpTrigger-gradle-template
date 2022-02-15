@@ -4,7 +4,7 @@ plugins {
 apply plugin: "java"
 
 group 'com.treant'
-version '0.0.1-http-trigger-gradle'
+version '0.0.1'
 
 dependencies {
   implementation 'com.microsoft.azure.functions:azure-functions-java-library:1.4.2'
